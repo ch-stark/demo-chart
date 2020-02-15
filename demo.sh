@@ -17,4 +17,6 @@ git pull origin
 git rm -r *
 git commit -am 'clean'
 git push origin
+cd ..
+rm -rf demo-chart
 eof
